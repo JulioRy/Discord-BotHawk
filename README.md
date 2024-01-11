@@ -1,1 +1,1 @@
-Discord Bot develop for studying.
+Discord Bot develop for studying using Discord.py.
